@@ -1,0 +1,167 @@
+﻿Name (Composite Primary Key),Ingredient type,Ingredient Name  (Composite Primary Key),Quantity,Unit
+Greek Yogurt and Muesli with Blueberries,Dairy,Yogurt,50,gms
+Greek Yogurt and Muesli with Blueberries,Cereal,Muesli,40,gms
+Greek Yogurt and Muesli with Blueberries,Fruit,Blueberry,40,gms
+Shakshuka,Poultry,Egg,4,piece
+Shakshuka,Vegetable,Tomato,1,cup
+Shakshuka,Vegetable,Onions,1,cup
+Shakshuka,Vegetable,Lettuce Leaf,10,gms
+Shakshuka,Condiment,Ginger Garlic paste,1,tsp
+Shakshuka,Condiment,Salt,0.5,tsp
+Bread Roll,Gluten,Flour,1,cup
+Bread Roll,Dairy,Milk,0.25,cup
+Bread Roll,Oil,Butter,0.25,cup
+Bread Roll,Sweetener,Sugar,1,tbsp
+Bread Roll,Rising Agent,Yeast,1,tsp
+Bread Roll,Condiment,Salt,0.5,tsp
+Bread Roll,Poultry,Egg,0.5,egg
+Aloo Gobi Paratha,Gluten,Whole Wheat,1,cup
+Aloo Gobi Paratha,Vegetable,Potato,1,cup
+Aloo Gobi Paratha,Vegetable,Cauliflower ,1,cup
+Aloo Gobi Paratha,Condiment,Ginger paste,0.5,tsp
+Aloo Gobi Paratha,Spice,Turmeric powder,0.25,tsp
+Aloo Gobi Paratha,Spice,Red Chilli Powder,0.5,tsp
+Aloo Gobi Paratha,Spice,Cumin Powder,0.25,tsp
+Aloo Gobi Paratha,Oil,Ghee,1,tbsp
+Aloo Gobi Paratha,Condiment,Salt,0.5,tsp
+Chicken Burger,Gluten,Burger Bun,1,piece
+Chicken Burger,Vegetable,Iceberg Lettuce,1,piece
+Chicken Burger,Poultry,Minced Chicken,100,gms
+Chicken Burger,Spice,Chicken Masala,1,tsp
+Chicken Burger,Dairy,Cheese Slice,1,piece
+Chicken Burger,Condiment,Salt,0.5,tsp
+Baked Pink Salmon with corn rice,Seafood,Salmon,100,gms
+Baked Pink Salmon with corn rice,Grains,Rice,0.5,cup
+Baked Pink Salmon with corn rice,Vegetable,Sweet Corn,1,tbsp
+Baked Pink Salmon with corn rice,Fruit,Lemon,1,piece
+Baked Pink Salmon with corn rice,Vegetable,Garlic ,1,tsp
+Baked Pink Salmon with corn rice,Oil,Olive oil,1,tbsp
+Baked Pink Salmon with corn rice,Spice,Black pepper,0.25,tsp
+Baked Pink Salmon with corn rice,Condiment,Salt,0.5,tsp
+Baked Pink Salmon with corn rice,Condiment,Mixed Herb,0.25,tsp
+Chicken Pizza,Gluten,whole wheat Pizza base,1,piece
+Chicken Pizza,Poultry,Chicken ,0.5,cup
+Chicken Pizza,Vegetable,Sweet Corn,1,tbsp
+Chicken Pizza,Vegetable,Button Mushroom,0.5,cup
+Chicken Pizza,Dairy,Shredded Mozzarella,50,gms
+Chicken Pizza,Condiment,Mixed Herb,1,tsp
+Chicken Pizza,Condiment,Pizza sauce,2,tbsp
+Mexican Tortilla Wrap,Gluten,Whole wheat tortilla,1,piece
+Mexican Tortilla Wrap,Legume,Kidney Bean,1,cup
+Mexican Tortilla Wrap,Dairy,Shredded Mozzarella,1,cup
+Mexican Tortilla Wrap,Vegetable,Tomato,1,cup
+Mexican Tortilla Wrap,Vegetable,Onion ,1,cup
+Mexican Tortilla Wrap,Spice,Cumin Powder,0.5,tsp
+Mexican Tortilla Wrap,Spice,Turmeric powder,0.25,tsp
+Mexican Tortilla Wrap,Condiment,Salt,0.5,tsp
+Mexican Tortilla Wrap,Oil,Olive Oil,1,tbsp
+Mexican Tortilla Wrap,Condiment,Sour Cream,0.5,cup
+Cherrry Tomatoes and Feta salad,Vegetable,Cherry tomatoes,8,piece
+Cherrry Tomatoes and Feta salad,Vegetable,Lettuce,5,piece
+Cherrry Tomatoes and Feta salad,Vegetable,Green Cucumber,1,cup
+Cherrry Tomatoes and Feta salad,Fruit,Pomegranate,0.5,cup
+Cherrry Tomatoes and Feta salad,Dairy,Feta Cheese,1,cup
+Butter Chicken,Poultry,Chicken ,250,gms
+Butter Chicken,Spice,Red Chili Powder,1,tsp
+Butter Chicken,Dairy,Yogurt,1,cup
+Butter Chicken,Condiment,Ginger Garlic Paste,1,tbsp
+Butter Chicken,Spice,Kasuri Methi,0.25,tsp
+Butter Chicken,Spice,Cumin powder,1,tsp
+Butter Chicken,Spice,Coriander powder,1,tsp
+Butter Chicken,Spice,Garam Masala,0.5,tsp
+Butter Chicken,Vegetable,Onion ,2,cup
+Butter Chicken,Vegetable,Tomato,2,cup
+Butter Chicken,Condiment,Salt,1,tsp
+Butter Chicken,Oil,Ghee,2,tbsp
+Butter Chicken,Nuts & Seeds,Cashew Nuts,0.5,cup
+Chicken Momo,Gluten,Flour,1,cup
+Chicken Momo,Gluten,Corn Starch,0.5,cup
+Chicken Momo,Poultry,Chicken ,1,cup
+Chicken Momo,Vegetable,Garlic,1,tbsp
+Chicken Momo,Vegetable,Ginger,1,tbsp
+Chicken Momo,Vegetable,Onion ,1,cup
+Chicken Momo,Vegetable,Spring Onion,0.5,cup
+Chicken Momo,Vegetable,Green Chiili,0.5,tsp
+Chicken Momo,Spice,Cumin Powder,1,tsp
+Chicken Momo,Condiment,Soya Sauce,2,tbsp
+Chicken Momo,Condiment,Salt,1,tsp
+Chicken Momo,Condiment,Pepper,0.5,tsp
+Chicken Roll,Gluten,Whole Wheat,1,cup
+Chicken Roll,Poultry,Chicken ,1,cup
+Chicken Roll,Poultry,Egg,2,piece
+Chicken Roll,Vegetable,Green Peas,0.5,cup
+Chicken Roll,Condiment,Ginger Garlic Paste,1,tbsp
+Chicken Roll,Spice,Chicken Masala,1,tbsp
+Chicken Roll,Oil,Oil,2,tbsp
+Chicken Roll,Condiment,Salt,1,tsp
+Chicken Turnover,Gluten,Flour,1,cup
+Chicken Turnover,Poultry,Chicken,1,cup
+Chicken Turnover,Vegetable,Carrot,1,piece
+Chicken Turnover,Vegetable,Sweet Potato,1,piece
+Chicken Turnover,Dairy,Cream Cheese,0.5,cup
+Chicken Turnover,Condiment,Salt,1,tsp
+Chicken Turnover,Spice,Paprika,0.25,tsp
+Chicken Turnover,Condiment,Black pepper,0.5,tsp
+Chicken Turnover,Oil,Butter,2,tbsp
+Beetroot Leek Soup,Vegetable,Leek,1,piece
+Beetroot Leek Soup,Vegetable,Carrot,1,piece
+Beetroot Leek Soup,Vegetable,Beet,1,piece
+Beetroot Leek Soup,Vegetable,Potato,1,piece
+Beetroot Leek Soup,Vegetable,Celery,1,piece
+Beetroot Leek Soup,Oil,Butter,1,tbsp
+Chana Daal,Legume,Chana Daal,1,cup
+Chana Daal,Vegetable,Ginger,1,tsp
+Chana Daal,Vegetable,Onion ,1,piece
+Chana Daal,Vegetable,Tomato,2,piece
+Chana Daal,Vegetable,Green Chili,1,piece
+Chana Daal,Spice,Red Chili Powder,0.5,tsp
+Chana Daal,Soice,Cumin Powder,1,tsp
+Chana Daal,Spice,Coriander powder,1,tsp
+Chana Daal,Oil,Ghee,1,tbsp
+Chana Daal,Condiment,Salt,0.5,tsp
+Cabbage with carrot,Vegetable,Cabbage,2,cup
+Cabbage with carrot,Vegetable,Carrot,1,cup
+Cabbage with carrot,Vegetable,Green Peas,0.5,cup
+Cabbage with carrot,Condiment,Ginger paste,1,tbsp
+Cabbage with carrot,Condiment,Salt,1,tsp
+Cabbage with carrot,Oil,Ghee,2,tbsp
+Pear Tea Cake,Gluten,Flour,2,cup
+Pear Tea Cake,Sweetner,Sugar,1.5,cup
+Pear Tea Cake,Oil,Butter,1,cup
+Pear Tea Cake,Fruit,Pear,1,piece
+Pear Tea Cake,Condiment,Vanilla,1,tbsp
+Pear Tea Cake,Rising Agent,Baking powder,1,tsp
+Pear Tea Cake,Spice,Cinnamon,1,tsp
+Dahi Papri Chaat,Gluten,Papdi,1,cup
+Dahi Papri Chaat,Vegetable,Potato,1,cup
+Dahi Papri Chaat,Vegetable,Onion,1,cup
+Dahi Papri Chaat,Dairy,Yogurt,1,cup
+Dahi Papri Chaat,Condiment,Green Chutney,2,tbsp
+Dahi Papri Chaat,Condiment,Imli Chutney,2,tbsp
+Dahi Papri Chaat,Spice,Chaat Masala,1,tsp
+Dahi Papri Chaat,Condiment,Sev,2,tbsp
+Toasties with Paneer Capcsicum topping,Gluten,Bread,1,piece
+Toasties with Paneer Capcsicum topping,Dairy,Paneer,1,cup
+Toasties with Paneer Capcsicum topping,Vegetable,Capsicum,1,cup
+Toasties with Paneer Capcsicum topping,Spice,Black pepper,1,tsp
+Toasties with Paneer Capcsicum topping,Condiment,Salt,1,tsp
+Blueberry Cookie,Gluten,Flour,2,cup
+Blueberry Cookie,Oil,Butter,1,cup
+Blueberry Cookie,Sweetner,Sugar,1,cup
+Blueberry Cookie,Fruit,Blueberry,1,cup
+Blueberry Cookie,Nuts & Seeds,Hazelnut,2,tbsp
+Blueberry Cookie,Rising Agent,Baking powder,1,tsp
+Espresso Brownie,Gluten,Flour,1,cup
+Espresso Brownie,Oil,Butter,1,cup
+Espresso Brownie,Sweetner,Dark Chocolate,1,cup
+Espresso Brownie,Condiment,Coffee,2,tsp
+Espresso Brownie,Sweetner,Sugar,2,cup
+Espresso Brownie,Poultry,Egg,2,piece
+Espresso Brownie,Spice,Cinnamon,1,tsp
+Espresso Brownie,Condiment,Vanilla,1,tbsp
+Espresso Brownie,Cobdiment,Salt,0.25,tsp
+Thai Blue sticky rice with Mango,Grains,Glutinous Rice,1,cup
+Thai Blue sticky rice with Mango,Fruit,Mango,1,cup
+Thai Blue sticky rice with Mango,Dairy,Coconut milk,1,cup
+Thai Blue sticky rice with Mango,Condiment,Dried Butterfly Pea Flowers,2,tbsp
+Thai Blue sticky rice with Mango,Sweetner,Sugar,2,tbsp
