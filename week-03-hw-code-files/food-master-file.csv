@@ -1,0 +1,24 @@
+﻿Name (Primary Key),Meal Type,Cuisine,Prep Time (in minutes),Cooking time (in minutes),Serving Size (in gms),Calories (Approx),Best Cooking Method
+Greek Yougurt and Muesli with Blueberries,Breakfast,Continental,5,0,130,190,No Cooking
+Shakshuka,Breakfast,African,10,15,100,102,Gas Stove
+ Bread Roll,Breakfast,Continental,40,30,80,12,Oven
+Aloo Gobi Paratha,Breakfast,Indian,10,20,100,264,Gas Stove
+Chicken Burger,Breakfast,American,10,10,100,280,Grill
+Baked Pink Salmon with corn rice,Lunch,Mediterranean,15,20,200,330,Oven
+Chicken Pizza,Lunch,Italian,10,15,100,243,Oven
+Mexican Tortilla Wrap,Lunch,Mexican,10,20,100,296,Gas Stove
+Cherry Tomatoes and Feta salad,Lunch,Continental,5,0,100,150,No Cooking
+Butter Chicken,Lunch,Indian,15,25,100,200,Gas Stove
+Chicken Momo,Dinner,Tibetan,10,30,100,183,Steamer
+Chicken Roll,Dinner,Indian,10,20,100,189,Gas Stove
+Chicken Turnover,Dinner,French,30,25,100,null,Air Fryer
+Beetroot Leek Soup,Dinner,Continental,10,10,100,71,Instapot
+Chana Daal,Dinner,Indian,10,15,100,252,Gas Stove
+Cabbage with carrot,Dinner,Indian,5,15,100,50,Gas Stove
+Pear Tea Cake,Snacks,British,15,45,100,400,Oven
+Dahi Papri Chaat,Snacks,Indian,10,0,100,189,No Cooking
+Toasties with Paneer Capcsicum topping,Snacks,Continental,10,5,125,244,Toaster
+Blueberry Cookie,Snacks,British,60,10,100,409,Oven
+Espresso Brownie,Dessert,American,30,30,100,356,Oven
+Apple Pie,Dessert,Bristish,180,60,100,237,Oven
+Blue sticky rice with Mango,Dessert,Thai,180,30,100,141,Gas Stove
