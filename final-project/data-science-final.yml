@@ -1,0 +1,8 @@
+name: data-science-final
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - conda-forge::r-base
+  - ipykernel
+prefix: /Users/kaavyamajumder/miniconda3/envs/data-science-final
